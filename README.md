@@ -1,5 +1,5 @@
 # nvim-config
-Fan's NVIM config.
+Fan's nvim config. Includes Lazyvim, omnisharp, snacks, claudecode.nvim, etc.
 
 # Usage :
 ## Windows
