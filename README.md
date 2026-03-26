@@ -5,7 +5,7 @@ Mainly for my personal play around C# (Unity) and Godot
 # Usage :
 ## Windows
 ```bash
-git clone https://github.com/Fan-Fan/nvim-config %LOCALAPPDATA%\nvim
+git clone [https://github.com/Fan-Fan/nvim-config $env:LOCALAPPDATA\nvim
 ```
 
 ## Linux
